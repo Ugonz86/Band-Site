@@ -1,7 +1,7 @@
 .main {
   float: left;
   width: 70%;
-  text-align: center;
+  /* text-align: center; */
   margin-left: 5%;
 }
 /* .sidebar {
@@ -21,15 +21,18 @@ h2 {
   float: right;
   overflow: hidden;
   height: 3000px;
-  background-color: gray;
+  background-color: lightgray;
+  border-radius: 5px;
 }
 img {
-  max-width: 60%;
+  max-width: 30%;
   float: left;
-  padding-bottom: 30px;
+  /* padding-bottom: 30px; */
+  margin-right: 10px;
+  border-radius: 5px;
 }
 .text {
   float: right;
-  width: 40%;
-  padding-bottom: 30px;
+  /* width: 40%;
+  padding-bottom: 30px; */
 }
